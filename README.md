@@ -11,9 +11,9 @@
 
 🔧 Tech Stack
 
-Frontend: React, React Native, TypeScript, SCSS
+Frontend: React, React Native (Basic), TypeScript, Sass, Tailwind CSS, Bootstrap
 
-Backend: PHP (Laravel), Node.js, MySQL
+Backend: PHP (Laravel), Node.js, MySQL, MongoDB, Postgre SQL
 
 Dev Tools: Git, Docker, Postman, VS Code
 <br>
