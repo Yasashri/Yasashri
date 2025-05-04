@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Yasashri and I'm a full-stack web developer from Sri Lanka</h3>
+<h3 align="left">Hi 👋! My name is Yasashri and I'm a full-stack Software Engineer from Sri Lanka</h3>
 
 ###
 
