@@ -15,7 +15,7 @@ Frontend: React, React Native (Basic), TypeScript, Sass, Tailwind CSS, Bootstrap
 
 Backend: PHP (Laravel), Node.js, MySQL, MongoDB, Postgre SQL
 
-Dev Tools: Git, Docker, Postman, VS Code
+Dev Tools: Git, Docker, Postman, Insomnia, Webstorm, VS Code
 <br>
 
 <div align="left">
