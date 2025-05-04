@@ -6,7 +6,8 @@
 ###
 
 <div align="left">
-  <p>A dedicated Software Engineer with a strong passion for solving real-world problems through technology. I specialize in building full-stack applications with clean code and user-focused design.
+  <p>A dedicated Software Engineer with a strong passion for solving real-world problems through technology. <br>
+    I specialize in building full-stack applications with clean code and user-focused design.
 
 🔧 Tech Stack
 
