@@ -2,9 +2,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasashri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -19,7 +16,11 @@ Backend: PHP (Laravel), Node.js, MySQL
 
 Dev Tools: Git, Docker, Postman, VS Code
 
-📱 Currently working on a mobile app to support senior citizens with health and communication features.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasashri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 🌏 Based in Taiwan | From Sri Lanka 🇱🇰
 
 💡 Constantly exploring, learning, and building. Let’s connect and collaborate!</p>
