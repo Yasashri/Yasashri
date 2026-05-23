@@ -18,14 +18,10 @@ Backend: PHP (Laravel), Node.js, MySQL, MongoDB, Postgre SQL
 Dev Tools: Git, Docker, Postman, Insomnia, Webstorm, VS Code
 <br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasashri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <br>
 <br>
 
-🌏 Based in Taiwan | From Sri Lanka 🇱🇰
+🌏 Based in Sri Lanka 🇱🇰
 
 💡 Constantly exploring, learning, and building. Let’s connect and collaborate!</p>
 </div>
